@@ -1,0 +1,10 @@
+.container{
+    background-color:whitesmoke;
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    border: 2px solid wheat;
+    margin-bottom:10px
+
+}
